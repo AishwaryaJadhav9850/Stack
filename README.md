@@ -1,6 +1,3 @@
-# Stack
-Stack implementation in Python
-
 ## Stack Implementation in Python using List Data Structure
 [List Stack Python Implementation](https://github.com/AishwaryaJadhav9850/Stack/blob/master/Stack.py)
 - IDE - Spyder 3.2.6
