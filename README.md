@@ -48,6 +48,6 @@
 - In case of an operator, 2 operands are popped form the stack, evaluated and pushed back onto the stack
 - Final result is found on the top of the stack
 - Prefix Expression : + 5 * 3 2
-- Result of this Postfix Expression be 11
+- Result of this Prefix Expression be 11
 
 ****
